@@ -12,3 +12,5 @@ hello = function(who){
   paste("hello,", who)
 }
 
+#usethis::create_github_token()
+#gitcreds::gitcreds_set()
